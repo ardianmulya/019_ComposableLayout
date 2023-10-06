@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout_multiplatform</string>
+    <string name="message">Hello</string>
+    <string name="from">UMY</string>
+</resources>
